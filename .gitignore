@@ -1,0 +1,44 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+# IntelliJ / Android Studio
+*.iml
+.idea/*
+!.idea/codeStyles
+!.idea/runConfigurations
+
+# Gradle
+.gradle
+/local.properties
+/.gradle/
+/build/
+
+# Android
+/captures
+.externalNativeBuild
+.cxx
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Keystore files (don’t share signing keys!)
+*.jks
+*.keystore
+
+# Misc
+*.log

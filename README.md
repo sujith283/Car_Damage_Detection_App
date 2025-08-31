@@ -11,7 +11,7 @@ This is an Android application for **car damage detection** using a **custom U-N
 - The model is **overconfident** and sometimes predicts damage even when none exists
 - The **UI is basic/shabby** since this was an experimental build
 - For full **model construction and training code**, please refer to my other repository:  
-  👉 [U-Net Model Repo](https://github.com/your-username/your-unet-repo)
+  👉 [U-Net Model Repo](https://github.com/sujith283/Car-Damage-Detection-using-UNet)
 
 ⚠️ **Note**: This was started in **January**, and I finally got time to upload it now. The app is not production-ready but shows the workflow.
 
@@ -86,7 +86,7 @@ cd CarDamageDetection
 
 ### 📥 Download APK
 
-Prebuilt APKs are available under [Releases](https://github.com/your-username/CarDamageDetection/releases).
+Prebuilt APK available under [Releases](https://github.com/sujith283/Car_Damage_Detection_App/tree/main/app/release) go ahead and downoad app-release.apk .
 
 1. Download the latest `.apk` file
 2. Install it on your Android device
@@ -110,9 +110,6 @@ Prebuilt APKs are available under [Releases](https://github.com/your-username/Ca
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
@@ -121,5 +118,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 If you have any questions or suggestions, feel free to reach out:
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@sujith283](https://github.com/sujith283)
 - Email: your.email@example.com
